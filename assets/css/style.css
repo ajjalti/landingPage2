@@ -7,6 +7,7 @@
 }
 #menu{
     display: none;
+    cursor: pointer;
 }
 .navbar-brand span:first-child{
     border: 3px solid yellow!important;
@@ -24,7 +25,6 @@ p{
     height: 25!important;
 }
 #compta{
-    position: relative !important;
     filter: opacity(40%) !important;
     background-color: yellow!important;
 
