@@ -26,10 +26,8 @@ p{
 #table .row:nth-child(1),#table .row:nth-child(5){
     height: 25!important;
 }
-#compta{
-    filter: opacity(40%) !important;
-    background-color: yellow!important;
-
+ #compta{
+    filter: opacity(65%) !important;
 }
 @media screen and (max-width:990px){
     #nav1{
