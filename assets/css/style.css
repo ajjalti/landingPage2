@@ -36,4 +36,8 @@ p{
     #menu{
         display: block;
     }
+    #row1,#row2{
+        display: flex;
+        flex-direction: column-reverse;
+    }
 }
