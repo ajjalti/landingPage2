@@ -3,12 +3,10 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    overflow: scroll;
-    scrollbar-width: 0px;
+    overflow-x: hidden;
 }
 body{
     font-family: 'Roboto',sans-serif;
-    overflow: hidden;
 }
 #menu{
     cursor: pointer;
